@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family='Amita:700');
+#title {
+    background-color:lightblue;
+    width:500px;
+    height:50px;
+    text-align:center;
+    font-size:45px;
+    border-radius:5000px;
+    
+} 
+
+h1 {
+text-align:center;
+    
+}
+    
+body{
+     background-image:url(background.jpg);
+     background-size:100%;
+     background-repeat:no-repeat;
+    }
+    p{
+        font-style:Amita;
+        color: #e2fffc;
+    }
+    img{
+        url:('moving_earth');
+        margin:auto;
+    }
+    
